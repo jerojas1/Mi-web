@@ -119,9 +119,9 @@ footer {
         margin: auto;
     }
 
-    .projects {
-        grid-template-columns: repeat(3, 1fr);
-    }
+   .projects {
+    repeat(auto-fit, minmax(300px, 1fr));
+}
 
     form {
         max-width: 700px;
