@@ -39,4 +39,5 @@ Author
 Jorge E Rojas
 
 GitHub: https://github.com/jerojas1/Mi-web
+Project: https://jerojas1.github.io/Mi-web/
 
